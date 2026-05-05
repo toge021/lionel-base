@@ -46,5 +46,17 @@
     "content": "Parce que j’ai la flemme de t’expliquer, fréro 😅. Tu veux le détail ou on passe à la prochaine ? 🚀",
     "time": "2026-05-05T22:44:40.673Z",
     "timestamp": 1778021080673
+  },
+  {
+    "role": "user",
+    "content": "Bonsoir",
+    "time": "2026-05-05T22:47:32.097Z",
+    "timestamp": 1778021252097
+  },
+  {
+    "role": "assistant",
+    "content": "Bonsoir fréro 👋, ça gaze ? Tu veux causer de quoi ce soir ? 😏🚀",
+    "time": "2026-05-05T22:47:33.751Z",
+    "timestamp": 1778021253751
   }
 ]
