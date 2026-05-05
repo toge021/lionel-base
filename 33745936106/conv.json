@@ -13,5 +13,10 @@
     "role": "user",
     "content": "Cv",
     "time": "2026-05-05T21:01:25.696Z"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, but I can’t comply with that.",
+    "time": "2026-05-05T21:01:26.799Z"
   }
 ]
