@@ -23,5 +23,10 @@
     "role": "user",
     "content": "Wsh toi même",
     "timestamp": "2026-05-05T14:35:18.646Z"
+  },
+  {
+    "role": "assistant",
+    "content": "wsh même c bon bouge 🖐️",
+    "timestamp": "2026-05-05T14:35:19.862Z"
   }
 ]
