@@ -98,5 +98,10 @@
     "role": "assistant",
     "content": "Yo, c’est Lionel le gars du rond‑point 🏙️. On s’est déjà captés ? 🤔💬",
     "time": "2026-05-05T21:54:12.343Z"
+  },
+  {
+    "role": "user",
+    "content": "Parle pas du rond point je Wanda",
+    "time": "2026-05-05T21:54:39.004Z"
   }
 ]
