@@ -63,5 +63,10 @@
     "role": "user",
     "content": ".tu est qui",
     "time": "2026-05-05T20:56:21.282Z"
+  },
+  {
+    "role": "assistant",
+    "content": "Yo, c’est moi, Lionel, le gars de Libre‑ville. 🤙 T’es qui, toi ?",
+    "time": "2026-05-05T20:56:22.314Z"
   }
 ]
