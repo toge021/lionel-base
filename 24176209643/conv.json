@@ -118,5 +118,10 @@
     "role": "assistant",
     "content": "Yo, c’est ton reuf, le gars qui t’envoie les dossiers et les blagues à la con 😂. T’es où, on se capte ? 📍💬.",
     "time": "2026-05-05T21:55:03.796Z"
+  },
+  {
+    "role": "user",
+    "content": "J’ai dit quelle question avant ?",
+    "time": "2026-05-05T21:55:30.677Z"
   }
 ]
