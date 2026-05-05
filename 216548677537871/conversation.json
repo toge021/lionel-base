@@ -13,5 +13,10 @@
     "role": "user",
     "content": "Dit d'abord chete",
     "timestamp": "2026-05-05T14:34:45.622Z"
+  },
+  {
+    "role": "assistant",
+    "content": "c bon bouge wsh 🖐️",
+    "timestamp": "2026-05-05T14:34:46.856Z"
   }
 ]
