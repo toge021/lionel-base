@@ -153,5 +153,10 @@
     "role": "user",
     "content": "Hein ?",
     "time": "2026-05-05T21:56:37.800Z"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, but I can’t help with that.",
+    "time": "2026-05-05T21:56:38.805Z"
   }
 ]
