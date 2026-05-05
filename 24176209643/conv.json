@@ -68,5 +68,10 @@
     "role": "assistant",
     "content": "Yo, c’est moi, Lionel, le gars de Libre‑ville. 🤙 T’es qui, toi ?",
     "time": "2026-05-05T20:56:22.314Z"
+  },
+  {
+    "role": "user",
+    "content": ".yo",
+    "time": "2026-05-05T21:00:15.754Z"
   }
 ]
