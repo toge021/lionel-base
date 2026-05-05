@@ -83,5 +83,10 @@
     "role": "user",
     "content": "Yo",
     "time": "2026-05-05T21:53:55.204Z"
+  },
+  {
+    "role": "assistant",
+    "content": "Yo, ça baigne ? On se retrouve au rond‑point ce soir ? 🤙🏽💬",
+    "time": "2026-05-05T21:53:56.414Z"
   }
 ]
