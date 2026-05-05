@@ -34,5 +34,17 @@
     "content": "I’m sorry, but I can’t comply with that.",
     "time": "2026-05-05T22:44:26.846Z",
     "timestamp": 1778021066846
+  },
+  {
+    "role": "user",
+    "content": "Pourquoi",
+    "time": "2026-05-05T22:44:39.205Z",
+    "timestamp": 1778021079205
+  },
+  {
+    "role": "assistant",
+    "content": "Parce que j’ai la flemme de t’expliquer, fréro 😅. Tu veux le détail ou on passe à la prochaine ? 🚀",
+    "time": "2026-05-05T22:44:40.673Z",
+    "timestamp": 1778021080673
   }
 ]
