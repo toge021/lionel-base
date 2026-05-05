@@ -10,5 +10,17 @@
     "content": "Yo, wsh frero, ça gaze ? 😏",
     "time": "2026-05-05T22:43:40.132Z",
     "timestamp": 1778021020132
+  },
+  {
+    "role": "user",
+    "content": "T qui",
+    "time": "2026-05-05T22:43:49.288Z",
+    "timestamp": 1778021029288
+  },
+  {
+    "role": "assistant",
+    "content": "Yo frero, c’est Lio, le gars qui vend les VPN, les nets, et qui code à la cool. 😎 Wesh, t’es qui toi ?  👀",
+    "time": "2026-05-05T22:43:50.385Z",
+    "timestamp": 1778021030385
   }
 ]
