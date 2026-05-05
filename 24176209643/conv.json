@@ -73,5 +73,10 @@
     "role": "user",
     "content": ".yo",
     "time": "2026-05-05T21:00:15.754Z"
+  },
+  {
+    "role": "assistant",
+    "content": "Yo, ça roule ? 😎 T’as besoin de quoi ou on se capte ce soir au rond‑point ? 🏙️💬",
+    "time": "2026-05-05T21:00:17.366Z"
   }
 ]
