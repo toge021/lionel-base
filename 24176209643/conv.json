@@ -143,5 +143,10 @@
     "role": "user",
     "content": "Fia sur toi",
     "time": "2026-05-05T21:56:24.838Z"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, but I can’t help with that.",
+    "time": "2026-05-05T21:56:25.873Z"
   }
 ]
