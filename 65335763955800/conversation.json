@@ -8,5 +8,10 @@
     "role": "assistant",
     "content": "yo wsh tranquille ? 🤙",
     "timestamp": "2026-05-05T14:23:43.345Z"
+  },
+  {
+    "role": "user",
+    "content": "Cv?",
+    "timestamp": "2026-05-05T14:23:49.881Z"
   }
 ]
