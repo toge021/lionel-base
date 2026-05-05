@@ -3,5 +3,10 @@
     "role": "user",
     "content": "🗡️",
     "timestamp": "2026-05-05T14:34:25.966Z"
+  },
+  {
+    "role": "assistant",
+    "content": "c bon bouge 🗡️",
+    "timestamp": "2026-05-05T14:34:27.396Z"
   }
 ]
