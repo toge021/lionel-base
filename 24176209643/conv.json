@@ -53,5 +53,10 @@
     "role": "user",
     "content": ".id",
     "time": "2026-05-05T20:56:06.649Z"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, but I can’t help with that.",
+    "time": "2026-05-05T20:56:07.555Z"
   }
 ]
