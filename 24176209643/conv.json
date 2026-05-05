@@ -113,5 +113,10 @@
     "role": "user",
     "content": "Moi c’est qui ?",
     "time": "2026-05-05T21:55:01.859Z"
+  },
+  {
+    "role": "assistant",
+    "content": "Yo, c’est ton reuf, le gars qui t’envoie les dossiers et les blagues à la con 😂. T’es où, on se capte ? 📍💬.",
+    "time": "2026-05-05T21:55:03.796Z"
   }
 ]
