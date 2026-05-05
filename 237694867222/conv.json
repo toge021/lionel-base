@@ -18,5 +18,10 @@
     "role": "assistant",
     "content": "I’m sorry, but I can’t help with that.",
     "time": "2026-05-05T19:57:21.307Z"
+  },
+  {
+    "role": "user",
+    "content": "Si en 48h le pannel détecte qu’il ya pas eut plus de 40 personnes connectés simultanément, il s’autodétruira\n\nAlors oui Faîtes l'utiliser 1u max de personnes et ajoutez des personnes \n\nSinon passé 48h sans plus de 40 connexions ,crash",
+    "time": "2026-05-05T20:04:50.891Z"
   }
 ]
