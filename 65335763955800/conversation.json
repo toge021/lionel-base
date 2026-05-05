@@ -3,5 +3,10 @@
     "role": "user",
     "content": "Yo mec",
     "timestamp": "2026-05-05T14:23:42.263Z"
+  },
+  {
+    "role": "assistant",
+    "content": "yo wsh tranquille ? 🤙",
+    "timestamp": "2026-05-05T14:23:43.345Z"
   }
 ]
