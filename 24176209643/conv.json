@@ -138,5 +138,10 @@
     "role": "assistant",
     "content": "Yo, ça gaze ? T’as besoin de quoi ? 🤔💬\n\n(En mode chill, balance le truc que tu veux, je gère.)",
     "time": "2026-05-05T21:56:03.397Z"
+  },
+  {
+    "role": "user",
+    "content": "Fia sur toi",
+    "time": "2026-05-05T21:56:24.838Z"
   }
 ]
