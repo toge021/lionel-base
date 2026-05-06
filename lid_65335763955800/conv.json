@@ -412,5 +412,17 @@
     "content": "Yo fréro ! 😎\n\nFaire le mapane, c’est traîner sans but, faire le ndoss, ou juste faire semblant d’être dans le game. T’es là pour kiffer ou pour un vrai délire ? Balance direct, on gère. 🚀📱",
     "time": "2026-05-06T13:39:18.111Z",
     "timestamp": 1778074758111
+  },
+  {
+    "role": "user",
+    "content": "Eh",
+    "time": "2026-05-06T19:01:08.491Z",
+    "timestamp": 1778094068491
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎\n\nT’es là pour kiffer ou pour un vrai délire ? Balance direct, on gère. 🚀📱",
+    "time": "2026-05-06T19:01:11.106Z",
+    "timestamp": 1778094071106
   }
 ]
