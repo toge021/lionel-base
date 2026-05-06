@@ -340,5 +340,17 @@
     "content": "Yo fréro ! 😎\nT’as besoin d’un fichier, d’un plan, ou t’es juste là pour faire le mapane ? 👀\n\nBalance direct, on gère. 🚀📱",
     "time": "2026-05-06T13:09:06.663Z",
     "timestamp": 1778072946663
+  },
+  {
+    "role": "user",
+    "content": "Tu est trop dans le paraître",
+    "time": "2026-05-06T13:09:36.353Z",
+    "timestamp": 1778072976353
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎\nT’es là pour faire le mapane ou t’as un vrai délire à me balancer ? 👀\n\nBalance direct, on gère. 🚀📱",
+    "time": "2026-05-06T13:09:37.710Z",
+    "timestamp": 1778072977710
   }
 ]
