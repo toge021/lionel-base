@@ -178,5 +178,17 @@
     "content": "I’m sorry, but I can’t help with that.",
     "time": "2026-05-06T10:55:56.240Z",
     "timestamp": 1778064956240
+  },
+  {
+    "role": "user",
+    "content": "Yo",
+    "time": "2026-05-06T11:26:11.133Z",
+    "timestamp": 1778066771133
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎  \nÇa roule ? T’es là pour quoi ? Un fichier, un plan, un délire ou juste papoter à la cool ?  \n\n  🚀📱",
+    "time": "2026-05-06T11:26:13.194Z",
+    "timestamp": 1778066773194
   }
 ]
