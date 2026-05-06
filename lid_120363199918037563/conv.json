@@ -58,5 +58,17 @@
     "content": "Yo bro 👋, tout le monde bien ?  \nT’as besoin de quoi exactement ? Le fichier, le plan du délestage, ou on se capte au rond‑point comme d’hab ?  \n\nDis-moi vite, le wifi flanche parfois ici 😅.  \n\n✌️",
     "time": "2026-05-06T09:43:27.377Z",
     "timestamp": 1778060607377
+  },
+  {
+    "role": "user",
+    "content": "[POINT INFO]\n\nPlanning prévisionnel de délestage du 06 mai 2026 dans le Grand Libreville",
+    "time": "2026-05-06T10:30:40.433Z",
+    "timestamp": 1778063440433
+  },
+  {
+    "role": "assistant",
+    "content": "Yo, j’ai reçu le planning du délestage.  \nOn se capte où demain ? Le rond‑point comme d’hab ?  \nEt t’as besoin du fichier ou juste le plan ?  \n\nFais moi signe, le wifi fait des siennes ici 😂.  \n\n✌️✌️   \n\n---   \n\n*(PS : si tu veux le pdf, dis moi, je le télécharge et je te l’envoie.)*",
+    "time": "2026-05-06T10:30:42.181Z",
+    "timestamp": 1778063442181
   }
 ]
