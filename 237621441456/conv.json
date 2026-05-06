@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "⭕️ *TARIFS VIP A Libertis : ILLIMITÉ* ⤵️\n\n *1semaine*~ 1500f\n\n *2semaines*~ 2500f\n\n *1mois* ~4500f\n\n *Disponible pour Android et iPhone* \n\n _Contacte un admin maintenant et profite de ta connexion illimité et stable._",
+    "time": "2026-05-06T17:20:21.686Z",
+    "timestamp": 1778088021686
+  },
+  {
+    "role": "user",
+    "content": "*⭕️TARIFS VIP B Libertis* \n\n *20Go*  1000f  \n                               \n *40Go*   1500f \n                              \n *50Go*   2000f \n                              \n *100Go* 3000f\n\n _Valide 1Mois renouvelable sur IOS et Android_",
+    "time": "2026-05-06T17:20:21.878Z",
+    "timestamp": 1778088021878
+  },
+  {
+    "role": "assistant",
+    "content": "1500f pour 1 semaine ? _nn_\n\n2500f pour 2 semaines ? _nn_\n\n4500f pour 1 mois ? _bof_\n\nT’es kinda là ?",
+    "time": "2026-05-06T17:20:23.879Z",
+    "timestamp": 1778088023879
+  },
+  {
+    "role": "assistant",
+    "content": "\"_nn_\"\n\n\"_4500f c’est chaud la capitale !_\"\n\n\"Donne tes arguments prix.\"\n\n\"Install npv tunnel sur play store.\"",
+    "time": "2026-05-06T17:20:24.147Z",
+    "timestamp": 1778088024147
+  }
+]
