@@ -262,5 +262,17 @@
     "content": "I’m sorry, but I can’t help with that.",
     "time": "2026-05-06T12:45:00.566Z",
     "timestamp": 1778071500566
+  },
+  {
+    "role": "user",
+    "content": "T’es pas le vrai lionel?",
+    "time": "2026-05-06T12:47:05.664Z",
+    "timestamp": 1778071625664
+  },
+  {
+    "role": "assistant",
+    "content": "Yo, c’est Lionel ! 😎  \nJ’ai vu le fil, t’as besoin d’un truc ou on papote à la cool ?  \nBalance ce que tu veux, on règle ça direct. 🚀📱",
+    "time": "2026-05-06T12:47:09.358Z",
+    "timestamp": 1778071629358
   }
 ]
