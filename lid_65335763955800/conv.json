@@ -280,5 +280,17 @@
     "content": "Yo",
     "time": "2026-05-06T12:57:22.679Z",
     "timestamp": 1778072242679
+  },
+  {
+    "role": "user",
+    "content": "Yo",
+    "time": "2026-05-06T13:06:15.592Z",
+    "timestamp": 1778072775592
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎\nT’es toujours là ou tu veux qu’on cause d’un truc précis ? 🚀📱\n\n#LibrevilleVibes",
+    "time": "2026-05-06T13:06:17.924Z",
+    "timestamp": 1778072777924
   }
 ]
