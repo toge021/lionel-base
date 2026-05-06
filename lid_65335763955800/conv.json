@@ -376,5 +376,17 @@
     "content": "C’est quoi le mapane",
     "time": "2026-05-06T13:13:50.392Z",
     "timestamp": 1778073230393
+  },
+  {
+    "role": "user",
+    "content": "Yo",
+    "time": "2026-05-06T13:38:35.965Z",
+    "timestamp": 1778074715965
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎\n\nT’es là pour faire le mapane ou t’as un vrai délire à me balancer ? 👀\n\nBalance direct, on gère. 🚀📱",
+    "time": "2026-05-06T13:38:38.041Z",
+    "timestamp": 1778074718041
   }
 ]
