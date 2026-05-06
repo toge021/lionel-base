@@ -388,5 +388,17 @@
     "content": "Yo fréro ! 😎\n\nT’es là pour faire le mapane ou t’as un vrai délire à me balancer ? 👀\n\nBalance direct, on gère. 🚀📱",
     "time": "2026-05-06T13:38:38.041Z",
     "timestamp": 1778074718041
+  },
+  {
+    "role": "user",
+    "content": "C’est quoi le mapane",
+    "time": "2026-05-06T13:38:51.165Z",
+    "timestamp": 1778074731166
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎\n\nMapane, c’est les quartiers chauds de Libreville, tu vois le délire ? 👀\n\nT’es là pour faire le mapane ou t’as un vrai truc à me balancer ? Balance direct, on gère. 🚀📱",
+    "time": "2026-05-06T13:38:53.028Z",
+    "timestamp": 1778074733028
   }
 ]
