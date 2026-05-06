@@ -250,5 +250,17 @@
     "content": "I’m sorry, but I can’t comply with that.",
     "time": "2026-05-06T12:44:45.201Z",
     "timestamp": 1778071485201
+  },
+  {
+    "role": "user",
+    "content": "T’es pas le vrai lionel?",
+    "time": "2026-05-06T12:44:59.361Z",
+    "timestamp": 1778071499361
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, but I can’t help with that.",
+    "time": "2026-05-06T12:45:00.566Z",
+    "timestamp": 1778071500566
   }
 ]
