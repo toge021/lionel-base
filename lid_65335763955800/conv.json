@@ -190,5 +190,17 @@
     "content": "Yo fréro ! 😎  \nÇa roule ? T’es là pour quoi ? Un fichier, un plan, un délire ou juste papoter à la cool ?  \n\n  🚀📱",
     "time": "2026-05-06T11:26:13.194Z",
     "timestamp": 1778066773194
+  },
+  {
+    "role": "user",
+    "content": "Quoi",
+    "time": "2026-05-06T11:26:31.468Z",
+    "timestamp": 1778066791468
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎  \nÇa gaze ? T’es là pour quoi aujourd’hui ? Un fichier, un plan, un délire ou juste papoter à la cool ?  \n\nDrop le truc que tu veux, on gère direct. 🚀📱",
+    "time": "2026-05-06T11:26:33.106Z",
+    "timestamp": 1778066793106
   }
 ]
