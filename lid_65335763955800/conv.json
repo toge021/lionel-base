@@ -304,5 +304,17 @@
     "content": "Yo fréro ! C’est moi, Lionel. 😎 Le gars qui vend les VPN, les nets, et qui code à la cool. Wesh, t’es qui toi ? 👀\n\nT’as besoin d’un fichier, d’un plan, ou juste d’un délire ? Balance direct, on gère. 🚀📱\n\n#LibrevilleVibes",
     "time": "2026-05-06T13:06:38.312Z",
     "timestamp": 1778072798312
+  },
+  {
+    "role": "user",
+    "content": "J’ai posé quelle question",
+    "time": "2026-05-06T13:07:21.977Z",
+    "timestamp": 1778072841977
+  },
+  {
+    "role": "assistant",
+    "content": "Yo fréro ! 😎\nT’as posé \"t’es qui\" deux fois, t’es pressé ou quoi ? 👀\n\nBalance ton délire, on gère direct. 🚀📱",
+    "time": "2026-05-06T13:07:23.100Z",
+    "timestamp": 1778072843100
   }
 ]
