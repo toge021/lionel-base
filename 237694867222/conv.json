@@ -23,5 +23,17 @@
     "role": "user",
     "content": "Si en 48h le pannel détecte qu’il ya pas eut plus de 40 personnes connectés simultanément, il s’autodétruira\n\nAlors oui Faîtes l'utiliser 1u max de personnes et ajoutez des personnes \n\nSinon passé 48h sans plus de 40 connexions ,crash",
     "time": "2026-05-05T20:04:50.891Z"
+  },
+  {
+    "role": "user",
+    "content": "Arrêt des fichiers signalés \nCause : connexion <10 sur 24h",
+    "time": "2026-05-06T16:13:50.567Z",
+    "timestamp": 1778084030567
+  },
+  {
+    "role": "assistant",
+    "content": "\"_j’ai la flemme_\"\n\n\"bof\"\n\n\"jsp\"\n\n\"?\"\n\n\"Bouge.\"",
+    "time": "2026-05-06T16:13:52.260Z",
+    "timestamp": 1778084032260
   }
 ]
