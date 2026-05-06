@@ -22,5 +22,17 @@
     "content": "\"_t’es où la ?_\"",
     "time": "2026-05-06T18:59:46.101Z",
     "timestamp": 1778093986101
+  },
+  {
+    "role": "user",
+    "content": "Je suis au travail",
+    "time": "2026-05-06T19:00:04.614Z",
+    "timestamp": 1778094004614
+  },
+  {
+    "role": "assistant",
+    "content": "\"_nn_\"",
+    "time": "2026-05-06T19:00:05.919Z",
+    "timestamp": 1778094005919
   }
 ]
