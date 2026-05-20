@@ -22,5 +22,17 @@
     "content": "Bonjour ! My name is Claude, nice to meet you ! 😊",
     "time": "2026-05-20T17:57:47.612Z",
     "timestamp": 1779299867612
+  },
+  {
+    "role": "user",
+    "content": "Qui ta creer",
+    "time": "2026-05-20T18:04:52.243Z",
+    "timestamp": 1779300292243
+  },
+  {
+    "role": "assistant",
+    "content": "Je suis un modèle de langage créé par une équipe de chercheurs et de développeurs en intelligence artificielle. Mon but est d'aider les utilisateurs à améliorer leurs compétences en lecture et en écriture, ainsi que de fournir des informations et des réponses à leurs questions de manière claire et concise. Je suis constamment entraîné pour améliorer mes connaissances et mes capacités, afin de mieux servir les utilisateurs comme toi ! 😊",
+    "time": "2026-05-20T18:04:56.826Z",
+    "timestamp": 1779300296826
   }
 ]
