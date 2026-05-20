@@ -10,5 +10,17 @@
     "content": "Bonjour ! Comment puis-je vous aider aujourd'hui ? (Hello! How can I help you today?)",
     "time": "2026-05-20T18:06:10.961Z",
     "timestamp": 1779300370961
+  },
+  {
+    "role": "user",
+    "content": "Tu peux analyse des fichiers",
+    "time": "2026-05-20T18:06:54.698Z",
+    "timestamp": 1779300414698
+  },
+  {
+    "role": "assistant",
+    "content": "Bien sûr ! Je peux analyser des fichiers texte, PDF, ainsi que d'autres formats de fichiers pour vous aider à comprendre leur contenu, à extraire des informations ou à les résumer. Quel type de fichier aimeriez-vous que j'analyse et quel est votre objectif ?",
+    "time": "2026-05-20T18:06:57.058Z",
+    "timestamp": 1779300417058
   }
 ]
