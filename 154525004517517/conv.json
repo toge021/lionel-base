@@ -10,5 +10,17 @@
     "content": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat? 😊",
     "time": "2026-05-20T17:57:26.573Z",
     "timestamp": 1779299846573
+  },
+  {
+    "role": "user",
+    "content": "Donne ton nom",
+    "time": "2026-05-20T17:57:45.704Z",
+    "timestamp": 1779299865704
+  },
+  {
+    "role": "assistant",
+    "content": "Bonjour ! My name is Claude, nice to meet you ! 😊",
+    "time": "2026-05-20T17:57:47.612Z",
+    "timestamp": 1779299867612
   }
 ]
