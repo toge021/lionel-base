@@ -22,5 +22,11 @@
     "content": "Bien sûr ! Je peux analyser des fichiers texte, PDF, ainsi que d'autres formats de fichiers pour vous aider à comprendre leur contenu, à extraire des informations ou à les résumer. Quel type de fichier aimeriez-vous que j'analyse et quel est votre objectif ?",
     "time": "2026-05-20T18:06:57.058Z",
     "timestamp": 1779300417058
+  },
+  {
+    "role": "user",
+    "content": "Ok tu connais code",
+    "time": "2026-05-20T18:07:19.569Z",
+    "timestamp": 1779300439569
   }
 ]
