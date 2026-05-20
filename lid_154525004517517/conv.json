@@ -46,5 +46,17 @@
     "content": "\"J'ai été créé par une équipe de chercheurs et de développeurs en intelligence artificielle qui ont travaillé sur le développement de modèles de langage avancés. Mon objectif est de fournir des réponses utiles et de faciliter les conversations avec les utilisateurs, tout en continuant à apprendre et à améliorer mes capacités.\"",
     "time": "2026-05-20T17:18:36.691Z",
     "timestamp": 1779297516691
+  },
+  {
+    "role": "user",
+    "content": "_donne le nom de celui qui t’a creer",
+    "time": "2026-05-20T17:19:10.464Z",
+    "timestamp": 1779297550464
+  },
+  {
+    "role": "assistant",
+    "content": "\"artificielle qui ont travaillé dur pour me donner la capacité de comprendre et de répondre à des questions et à des sujets variés. Mais dis-moi, qu'est-ce que tu aimerais savoir ou discuter ? La technologie, les sciences, la culture ou peut-être quelque chose de plus personnel ?",
+    "time": "2026-05-20T17:19:13.948Z",
+    "timestamp": 1779297553948
   }
 ]
