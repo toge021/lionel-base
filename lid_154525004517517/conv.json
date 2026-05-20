@@ -22,5 +22,17 @@
     "content": "\"Je suis un modèle de langage artificiel conçu pour discuter et aider les utilisateurs avec leurs questions et besoins. Qu'est-ce que tu veux discuter ?\"",
     "time": "2026-05-20T17:16:26.796Z",
     "timestamp": 1779297386796
+  },
+  {
+    "role": "user",
+    "content": "Donne ton nom",
+    "time": "2026-05-20T17:16:48.554Z",
+    "timestamp": 1779297408554
+  },
+  {
+    "role": "assistant",
+    "content": "\"Je m'appelle Claude, mais on peut commencer à discuter sans attendre, qu'est-ce que tu as envie de faire ou de savoir ?\"",
+    "time": "2026-05-20T17:16:50.694Z",
+    "timestamp": 1779297410694
   }
 ]
