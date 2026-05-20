@@ -180,5 +180,17 @@
     "content": "\"moi, je suis là pour discuter et t'aider si tu as besoin de quelque chose, mais pour l'instant, je vois que tu es un peu perdu dans tes émotions et tes messages sont un peu difficiles à comprendre, tu veux parler de quelque chose en particulier ou simplement partager ce qui se passe dans ta tête ?\"",
     "time": "2026-05-20T17:20:02.064Z",
     "timestamp": 1779297602064
+  },
+  {
+    "role": "user",
+    "content": "@45299590500381 je comprend pas baileys",
+    "time": "2026-05-20T17:20:39.822Z",
+    "timestamp": 1779297639822
+  },
+  {
+    "role": "assistant",
+    "content": "\"moi, je suis là pour discuter et t'aider si tu as besoin de quelque chose, mais je vois que tu es un peu perdu dans tes émotions, quoi de neuf, tu veux en parler ?\"",
+    "time": "2026-05-20T17:20:42.058Z",
+    "timestamp": 1779297642058
   }
 ]
