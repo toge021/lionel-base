@@ -10,5 +10,17 @@
     "content": "\"Qu'est-ce qui se passe ?\"",
     "time": "2026-05-20T17:16:16.193Z",
     "timestamp": 1779297376193
+  },
+  {
+    "role": "user",
+    "content": "Tu est qui",
+    "time": "2026-05-20T17:16:24.985Z",
+    "timestamp": 1779297384986
+  },
+  {
+    "role": "assistant",
+    "content": "\"Je suis un modèle de langage artificiel conçu pour discuter et aider les utilisateurs avec leurs questions et besoins. Qu'est-ce que tu veux discuter ?\"",
+    "time": "2026-05-20T17:16:26.796Z",
+    "timestamp": 1779297386796
   }
 ]
