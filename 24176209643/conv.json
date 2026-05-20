@@ -192,5 +192,17 @@
     "content": "\"moi, je suis là pour discuter et t'aider si tu as besoin de quelque chose, mais je vois que tu es un peu perdu dans tes émotions, quoi de neuf, tu veux en parler ?\"",
     "time": "2026-05-20T17:20:42.058Z",
     "timestamp": 1779297642058
+  },
+  {
+    "role": "user",
+    "content": "@45299590500381 c’est quoi baileys",
+    "time": "2026-05-20T17:22:12.045Z",
+    "timestamp": 1779297732045
+  },
+  {
+    "role": "assistant",
+    "content": "\"moi, ton assistant virtuel, prêt à discuter et t'aider si tu as besoin de quelque chose ! Qu'est-ce qui se passe, tu sembles un peu perdu ? 😊\"",
+    "time": "2026-05-20T17:22:15.246Z",
+    "timestamp": 1779297735246
   }
 ]
